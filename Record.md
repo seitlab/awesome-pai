@@ -1,0 +1,218 @@
+[toc]
+
+# The first meeting
+
+## 一、明确概念
+
+- **Physical AI**：不仅是“具身智能 (Embodied AI)”，还包括与物理世界交互的更广范围的 AI。
+  - Embodied AI：强调 **AI+身体**，机器人等。
+  - AIOT：侧重 **物联网+智能**，偏感知与分布式系统。
+  - Agentic AI：强调 **自主性、规划、决策**，未必有物理形态。
+  - AI + CPS (Cyber-Physical Systems)：**控制与物理结合**，偏系统层面。
+
+👉 结论：**不是 Embodied AI 的但可以算 Physical AI 的** → AIoT、AI+CPS。
+ Agentic AI 本身不一定是 Physical AI，但如果赋予传感器与执行器，则可以成为 Physical AI 的核心部分。
+
+------
+
+## 二、Physical AI 的愿景
+
+- 一个完整的闭环系统：
+   **输入 (sensing) → 信号处理 (signal processing) → 表征学习/推理 (AI model/Agentic AI) → 输出 (actuation)**
+- 与机器人、自主系统紧密相关，既包括硬件系统，也包括智能体决策。
+
+------
+
+## 三、模块划分
+
+可以采用**端到端框架 + 模块化视角**结合：
+
+1. **Sensing（传感器与数据采集）**
+   - 多模态感知（视觉、语音、雷达、触觉等）
+2. **Signal Processing（信号处理与低层特征提取）**
+   - 噪声抑制、特征压缩、融合
+3. **Perception & Representation（感知与表征学习）**
+   - 从低层特征到高层语义
+4. **Agentic AI（自主决策与推理）**
+   - 规划、目标设定、推理、长期自主性
+5. **Actuation & Control（执行与控制）**
+   - 机械臂、机器人、自主系统行动
+6. **System Integration（系统层与CPS）**
+   - 网络、资源管理、安全与隐私
+
+------
+
+## 四、现存问题 & 挑战
+
+1. **传感层**
+   - 噪声大、传感器精度受限、多模态对齐不成熟。
+2. **信号处理**
+   - 与AI结合不足，传统信号处理和深度学习融合还在探索阶段。
+3. **感知与表征**
+   - 在复杂环境下鲁棒性不足，缺乏泛化。
+4. **Agentic AI**
+   - 高级自主性与现实物理约束之间的gap大；规划可解释性不足。
+5. **执行与控制**
+   - 控制算法与学习算法融合不成熟，实时性差。
+6. **系统层**
+   - 缺乏统一的评估标准；CPS/AIOT在安全、隐私、能耗上存在难点。
+
+------
+
+## 五、区分 Physical AI 与 Agentic AI
+
+- **Physical AI**：强调 AI 与 **物理世界耦合**，必须有传感器+执行器闭环。
+- **Agentic AI**：强调 **智能体的自主性**，可以存在于纯虚拟环境，不一定与物理实体绑定。
+   👉 二者交叉点：**当 Agentic AI 驱动物理系统时，就变成了 Physical AI 的核心大脑**。
+
+------
+
+## 六、如何做 Survey
+
+1. **角度**
+   - 模块化视角（从感知→处理→决策→控制）
+   - 应用视角（机器人、自动驾驶、医疗设备、智能制造等）
+   - 技术融合视角（信号处理 + AI，CPS + AIOT + Embodied AI）
+2. **结构**
+   - 先定义概念
+   - 分模块综述已有研究
+   - 强调不同方向的结合点与不足
+   - 总结挑战与未来趋势
+3. **结论**
+   - Physical AI 是跨学科的，现阶段大多研究还停留在**单模块突破**，缺少端到端融合。
+   - 未来趋势：**多模态感知+Agentic AI+实时控制+CPS集成**。
+
+------
+
+## 七、写作时的 Key Points
+
+- **区别与联系**：Physical AI vs Embodied AI vs Agentic AI
+- **端到端框架**：输入-处理-决策-输出
+- **模块化结构**：分层梳理研究
+- **问题与挑战**：哪些部分不成熟（重点放在 sensing、signal processing 与 AI 融合、Agentic AI 的物理可解释性）
+- **未来趋势**：跨模态、跨层级，走向全闭环系统
+
+------
+
+📌 **总结**：
+ 你们的综述应当以 **Physical AI 的定义与边界**为起点，强调它不仅包含 Embodied AI，还扩展到 AIOT 和 CPS。以 **模块化+端到端的框架**来组织文章，分别介绍 sensing、signal processing、perception、agentic AI、actuation 与系统集成。最后重点放在 **挑战、不足与未来方向**，这样既有结构，又能突显价值。
+
+好，那我帮你拟一个**《Physical AI综述》大纲目录**，带上小标题，基本可以直接用在论文初稿里：
+
+------
+
+
+
+# Survey on Physical AI: From Sensing to Agentic Intelligence
+
+## 1. Introduction
+
+- 背景与动机
+- 为什么需要“Physical AI”这一概念
+- 区别与联系：Physical AI vs. Embodied AI vs. Agentic AI vs. AIoT vs. CPS
+- 本文贡献与结构安排
+
+------
+
+## 2. Definition and Scope of Physical AI
+
+- 物理世界交互的核心特征
+- 必须包含的基本要素：**Sensing – Processing – Intelligence – Actuation – Integration**
+- 应用领域：机器人、自主系统、医疗、交通、工业物联网
+
+------
+
+## 3. Core Modules of Physical AI
+
+### 3.1 Sensing
+
+- 多模态传感器（视觉、语音、雷达、触觉）
+- 信号获取与预处理
+- 挑战：噪声、多模态对齐、数据稀疏
+
+### 3.2 Signal Processing
+
+- 传统信号处理方法与AI结合
+- 特征提取与压缩
+- 多源信息融合
+- 挑战：实时性、能耗约束、鲁棒性
+
+### 3.3 Perception and Representation
+
+- 表征学习与高层语义感知
+- 自监督、多模态学习在Physical AI中的应用
+- 挑战：泛化能力差、在复杂环境中的鲁棒性不足
+
+### 3.4 Agentic AI (Decision and Planning)
+
+- Agentic AI 的定义与发展
+- 与物理世界交互时的决策问题
+- 挑战：可解释性、长期规划、物理约束适配
+
+### 3.5 Actuation and Control
+
+- 执行器（机器人手臂、无人车、仿生系统等）
+- 控制算法与学习算法的结合（Learning-based Control）
+- 挑战：实时反馈、稳定性、安全性
+
+### 3.6 System Integration (AI + CPS/AIoT)
+
+- Cyber-Physical Systems 与 AI 的结合
+- 分布式与协同控制（AIoT）
+- 安全、隐私与能效问题
+
+------
+
+## 4. Comparison with Related Paradigms
+
+- Physical AI vs Embodied AI
+- Physical AI vs Agentic AI
+- Physical AI vs AIoT
+- Physical AI vs CPS
+
+------
+
+## 5. Current Research Landscape
+
+- 典型研究方向与成果总结（按模块/应用领域分类）
+- 代表性论文/系统/benchmark (可仅限顶会)
+- 成果总结：做了什么 → 有什么效果 → 怎么和AI结合 → 存在什么缺陷
+
+------
+
+## 6. Challenges and Open Problems
+
+1. Sensing：高精度、多模态协同感知不成熟
+2. Signal Processing：传统DSP与深度学习缺乏统一框架
+3. Perception：鲁棒性、泛化、复杂环境适应性不足
+4. Agentic AI：缺乏物理世界中的可解释、自主与安全性
+5. Actuation：实时控制与智能规划结合不成熟
+6. System Level：安全性、隐私保护、能耗优化、缺乏评估基准
+
+------
+
+## 7. Future Directions
+
+- 端到端 vs 模块化的结合
+- 多模态感知与大模型驱动的统一表征
+- 自主性与可解释性兼顾的 Agentic AI
+- Learning-based Control 与 CPS 的深度耦合
+- 标准化评估与开放benchmark
+
+------
+
+## 8. Conclusion
+
+- 总结Physical AI的内涵与意义
+- 模块化回顾与未来展望
+
+------
+
+📌 **写作建议**：
+
+- 每一章都要用 **问题-方法-效果-不足** 的小循环。
+- 特别注意“Agentic AI 在物理世界中的不足”这一块，会是热点。
+- 结尾一定强调“跨学科融合+标准化评估”的趋势。
+
+------
+
