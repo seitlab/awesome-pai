@@ -10,6 +10,28 @@
 
 
 
+# 2025 10.4  PAI（Physical AI）Survey Writting —— 会议纪要
+
+
+
+#### Previous Week Progress:
+
+- Decided to submit the survey to **ACM Computing Surveys**.
+- Polished the **general structure diagram**.
+- Drafted the **background section**.
+- Outlined the **perception block structure**.
+- Shared and discussed relevant papers.
+
+#### Plan for This Week:
+
+- Conduct further **paper reading** to support the initial design of the **cognition block** and **actuation block**.
+- **Collect related work** for each module, extract key insights, and prepare content for writing.
+- Continue to **iterate and refine** the overall structure of the survey.
+
+
+
+
+
 # 2025.9.19 1st PAI（Physical AI）Paper-Reading —— 会议纪要（整理 & 润色）
 
 ## 一、工作的价值（Why this matters）
