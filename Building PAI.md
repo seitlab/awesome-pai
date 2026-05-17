@@ -1,107 +1,165 @@
 
-# Citation Organization (All Tables Truly Removed)
+# Citation Organization
 
 ### General-Purpose Simulators
 
-*Unique citations: 9*
+**[arXiv'23] nvidia2023isaacsim** — *NVIDIA Isaac Sim: Robotics Simulation and Synthetic Data*  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://developer.nvidia.com/isaac/sim)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/isaac-sim/IsaacSim)
 
-**[arXiv'23] nvidia2023isaacsim** — *NVIDIA Isaac Sim: Robotics Simulation and Synthetic Data*
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://developer.nvidia.com/isaac-sim)
+**[arXiv'21] makoviychuk2021isaac** — *Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning*  
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=fgFBtYgJQX_)  
+[![arXiv](https://img.shields.io/badge/arXiv-2108.10470-b31b1b.svg)](https://arxiv.org/abs/2108.10470)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/isaac-sim/IsaacGymEnvs)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sites.google.com/view/isaacgym-nvidia)
 
-**[arXiv'21] makoviychuk2021isaac** — *Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning*
-  [![arXiv](https://img.shields.io/badge/arXiv-2108.10470-b31b1b.svg)](https://arxiv.org/abs/2108.10470)
+**[arXiv'05] koenig2004gazebo** — *Design and use paradigms for gazebo, an open-source multi-robot simulator*  
+[![Paper](https://img.shields.io/badge/Paper-IEEE-4B5D67.svg)](https://doi.org/10.1109/iros.2004.1389727)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/gazebosim/gz-sim)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gazebosim.org/)
 
-**[arXiv'05] koenig2004gazebo** — *Design and use paradigms for gazebo, an open-source multi-robot simulator*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.1109/iros.2004.1389727)
+**[arXiv'21] coumans2016pybullet** — *PyBullet, a Python module for physics simulation for games, robotics and machine learning*  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/bulletphysics/bullet3)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://pybullet.org/wordpress/)
 
-**[arXiv'21] coumans2016pybullet** — *PyBullet, a Python module for physics simulation for games, robotics and machine learning*
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://pybullet.org)
+**[arXiv'12] todorov2012mujoco** — *MuJoCo: A physics engine for model-based control*  
+[![Paper](https://img.shields.io/badge/Paper-IROS-4B5D67.svg)](https://doi.org/10.1109/IROS.2012.6386109)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-deepmind/mujoco)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://mujoco.org/)
 
-**[arXiv'12] todorov2012mujoco** — *MuJoCo: A physics engine for model-based control*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.1109/iros.2012.6386109)
+**[arXiv'04] michel2004webots** — *WebotsTM: Professional Mobile Robot Simulation*  
+[![arXiv](https://img.shields.io/badge/arXiv-cs/0412052-b31b1b.svg)](https://arxiv.org/abs/cs/0412052)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/cyberbotics/webots)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://cyberbotics.com/)
 
-**[arXiv'04] michel2004webots** — *WebotsTM: Professional Mobile Robot Simulation*
-  [![arXiv](https://img.shields.io/badge/arXiv-cs/0412052-b31b1b.svg)](https://arxiv.org/abs/cs/0412052)
+**[arXiv'17] shah2017airsim** — *AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles*  
+[![Paper](https://img.shields.io/badge/Paper-arXiv-4B5D67.svg)](https://arxiv.org/abs/1705.05065)  
+[![arXiv](https://img.shields.io/badge/arXiv-1705.05065-b31b1b.svg)](https://arxiv.org/abs/1705.05065)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/microsoft/AirSim)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://microsoft.github.io/AirSim/)
 
-**[arXiv'17] shah2017airsim** — *AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles*
-[![arXiv](https://img.shields.io/badge/arXiv-1705.05065-b31b1b.svg)](https://arxiv.org/abs/1705.05065)
+**[arXiv'18] juliani2018unity** — *Unity: A General Platform for Intelligent Agents*  
+[![arXiv](https://img.shields.io/badge/arXiv-1809.02627-b31b1b.svg)](https://arxiv.org/abs/1809.02627)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/Unity-Technologies/ml-agents)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://unity.com/products/machine-learning-agents)
 
-**[arXiv'18] juliani2018unity** — *Unity: A General Platform for Intelligent Agents*
-  [![arXiv](https://img.shields.io/badge/arXiv-1809.02627-b31b1b.svg)](https://arxiv.org/abs/1809.02627)
+**[arXiv'13] rohmer2013vrep** — *V-REP: A versatile and scalable robot simulation framework*  
+[![Paper](https://img.shields.io/badge/Paper-IROS-4B5D67.svg)](https://doi.org/10.1109/IROS.2013.6696520)  
 
-**[arXiv'13] rohmer2013vrep** — *V-REP: A versatile and scalable robot simulation framework*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.1109/iros.2013.6696520)
 
 ### Real-Scene Based Simulators
 
-*Unique citations: 12*
+**[arXiv'17] kolve2022ai2thorinteractive3denvironment** — *AI2-THOR: An Interactive 3D Environment for Visual AI*  
+[![arXiv](https://img.shields.io/badge/arXiv-1712.05474-b31b1b.svg)](https://arxiv.org/abs/1712.05474)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/allenai/ai2thor)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://ai2thor.allenai.org/)
 
-**[arXiv'17] kolve2022ai2thorinteractive3denvironment** — *AI2-THOR: An Interactive 3D Environment for Visual AI*
-  [![arXiv](https://img.shields.io/badge/arXiv-1712.05474-b31b1b.svg)](https://arxiv.org/abs/1712.05474)
+**[arXiv'17] chang2017matterport3dlearningrgbddata** — *Matterport3D: Learning from RGB-D Data in Indoor Environments*  
+[![Paper](https://img.shields.io/badge/Paper-3DV-4B5D67.svg)](https://openaccess.thecvf.com/content_3DV_2017/html/Chang_Matterport3D_Learning_from_3DV_2017_paper.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-1709.06158-b31b1b.svg)](https://arxiv.org/abs/1709.06158)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://niessner.github.io/Matterport/)
 
-**[arXiv'17] chang2017matterport3dlearningrgbddata** — *Matterport3D: Learning from RGB-D Data in Indoor Environments*
-  [![arXiv](https://img.shields.io/badge/arXiv-1709.06158-b31b1b.svg)](https://arxiv.org/abs/1709.06158)
+**[arXiv'18] puig2018virtualhomesimulatinghouseholdactivities** — *VirtualHome: Simulating Household Activities via Programs*  
+[![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://openaccess.thecvf.com/content_cvpr_2018/html/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-1806.07011-b31b1b.svg)](https://arxiv.org/abs/1806.07011)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/xavierpuigf/virtualhome)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](http://virtual-home.org/)
 
-**[arXiv'18] puig2018virtualhomesimulatinghouseholdactivities** — *VirtualHome: Simulating Household Activities via Programs*
-  [![arXiv](https://img.shields.io/badge/arXiv-1806.07011-b31b1b.svg)](https://arxiv.org/abs/1806.07011)
+**[arXiv'19] savva2019habitatplatformembodiedai** — *Habitat: A Platform for Embodied AI Research*  
+[![Paper](https://img.shields.io/badge/Paper-ICCV-4B5D67.svg)](https://openaccess.thecvf.com/content_ICCV_2019/html/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-1904.01201-b31b1b.svg)](https://arxiv.org/abs/1904.01201)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/habitat-lab)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://aihabitat.org/)
 
-**[arXiv'19] savva2019habitatplatformembodiedai** — *Habitat: A Platform for Embodied AI Research*
-  [![arXiv](https://img.shields.io/badge/arXiv-1904.01201-b31b1b.svg)](https://arxiv.org/abs/1904.01201)
+**[arXiv'20] xiang2020sapiensimulatedpartbasedinteractive** — *SAPIEN: A SimulAted Part-based Interactive ENvironment*  
+[![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://openaccess.thecvf.com/content/CVPR2020/html/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-2003.08515-b31b1b.svg)](https://arxiv.org/abs/2003.08515)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/haosulab/SAPIEN)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sapien.ucsd.edu/)
 
-**[arXiv'20] xiang2020sapiensimulatedpartbasedinteractive** — *SAPIEN: A SimulAted Part-based Interactive ENvironment*
-  [![arXiv](https://img.shields.io/badge/arXiv-2003.08515-b31b1b.svg)](https://arxiv.org/abs/2003.08515)
+**[arXiv'20] shen2021igibson10simulationenvironment** — *iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes*  
+[![arXiv](https://img.shields.io/badge/arXiv-2012.02924-b31b1b.svg)](https://arxiv.org/abs/2012.02924)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/StanfordVL/iGibson)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://svl.stanford.edu/igibson/)
 
-**[arXiv'20] shen2021igibson10simulationenvironment** — *iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes*
-  [![arXiv](https://img.shields.io/badge/arXiv-2012.02924-b31b1b.svg)](https://arxiv.org/abs/2012.02924)
+**[arXiv'21] li2021igibson20objectcentricsimulation** — *iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks*  
+[![arXiv](https://img.shields.io/badge/arXiv-2108.03272-b31b1b.svg)](https://arxiv.org/abs/2108.03272)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/StanfordVL/iGibson)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://svl.stanford.edu/igibson/)
 
-**[arXiv'21] li2021igibson20objectcentricsimulation** — *iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks*
-  [![arXiv](https://img.shields.io/badge/arXiv-2108.03272-b31b1b.svg)](https://arxiv.org/abs/2108.03272)
+**[arXiv'20] gan2021threedworldplatforminteractivemultimodal** — *ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation*  
+[![arXiv](https://img.shields.io/badge/arXiv-2007.04954-b31b1b.svg)](https://arxiv.org/abs/2007.04954)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/threedworld-mit/tdw)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.threedworld.org/)
 
-**[arXiv'20] gan2021threedworldplatforminteractivemultimodal** — *ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation*
-  [![arXiv](https://img.shields.io/badge/arXiv-2007.04954-b31b1b.svg)](https://arxiv.org/abs/2007.04954)
+**[arXiv'22] deitke2022procthorlargescaleembodiedai** — *ProcTHOR: Large-Scale Embodied AI Using Procedural Generation*  
+[![Paper](https://img.shields.io/badge/Paper-NeurIPS-4B5D67.svg)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/27c546ab1d1e8a2afc4131f997c7d7f1-Abstract-Datasets_and_Benchmarks.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-2206.06994-b31b1b.svg)](https://arxiv.org/abs/2206.06994)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/allenai/procthor)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://procthor.allenai.org/)
 
-**[arXiv'22] deitke2022procthorlargescaleembodiedai** — *ProcTHOR: Large-Scale Embodied AI Using Procedural Generation*
-  [![arXiv](https://img.shields.io/badge/arXiv-2206.06994-b31b1b.svg)](https://arxiv.org/abs/2206.06994)
+**[arXiv'23] wang2024robogenunleashinginfinitedata** — *RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation*  
+[![arXiv](https://img.shields.io/badge/arXiv-2311.01455-b31b1b.svg)](https://arxiv.org/abs/2311.01455)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/Genesis-Embodied-AI/RoboGen)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://robogen-ai.github.io/)
 
-**[arXiv'23] wang2024robogenunleashinginfinitedata** — *RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation*
-  [![arXiv](https://img.shields.io/badge/arXiv-2311.01455-b31b1b.svg)](https://arxiv.org/abs/2311.01455)
+**[arXiv'23] yang2024holodecklanguageguidedgeneration** — *Holodeck: Language Guided Generation of 3D Embodied AI Environments*  
+[![arXiv](https://img.shields.io/badge/arXiv-2312.09067-b31b1b.svg)](https://arxiv.org/abs/2312.09067)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/allenai/Holodeck)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://holodeck.allenai.org/)
 
-**[arXiv'23] yang2024holodecklanguageguidedgeneration** — *Holodeck: Language Guided Generation of 3D Embodied AI Environments*
-  [![arXiv](https://img.shields.io/badge/arXiv-2312.09067-b31b1b.svg)](https://arxiv.org/abs/2312.09067)
+**[arXiv'24] yang2024physcenephysicallyinteractable3d** — *PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI*  
+[![arXiv](https://img.shields.io/badge/arXiv-2404.09465-b31b1b.svg)](https://arxiv.org/abs/2404.09465)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://physcene.github.io/)
 
-**[arXiv'24] yang2024physcenephysicallyinteractable3d** — *PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI*
-  [![arXiv](https://img.shields.io/badge/arXiv-2404.09465-b31b1b.svg)](https://arxiv.org/abs/2404.09465)
 
 ### Domain-Specific Simulators
 
-*Unique citations: 9*
+**[CoRL'17] dosovitskiy2017carla** — *CARLA: An Open Urban Driving Simulator*  
+[![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v78/dosovitskiy17a.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-1711.03938-b31b1b.svg)](https://arxiv.org/abs/1711.03938)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/carla-simulator/carla)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://carla.org/)
 
-**[CoRL'17] dosovitskiy2017carla** — *CARLA: An Open Urban Driving Simulator*
-[![arXiv](https://img.shields.io/badge/arXiv-1904.01201-b31b1b.svg)](https://arxiv.org/abs/1711.03938)
+**[arXiv'18] lopez2018sumo** — *Microscopic Traffic Simulation using SUMO*  
+[![Paper](https://img.shields.io/badge/Paper-ITSC-4B5D67.svg)](https://doi.org/10.1109/ITSC.2018.8569938)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/eclipse-sumo/sumo)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.eclipse.org/sumo/)
 
-**[arXiv'18] lopez2018sumo** — *Microscopic Traffic Simulation using SUMO*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.1109/itsc.2018.8569938)
+**[arXiv'21] caesar2021nuplan** — *NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles*  
+[![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Caesar_nuPlan_A_Closed-Loop_ML-Based_Planning_Benchmark_for_Autonomous_Vehicles_CVPR_2022_paper.html)  
+[![arXiv](https://img.shields.io/badge/arXiv-2106.11810-b31b1b.svg)](https://arxiv.org/abs/2106.11810)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/motional/nuplan-devkit)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.nuscenes.org/nuplan)
 
-**[arXiv'21] caesar2021nuplan** — *NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles*
-  [![arXiv](https://img.shields.io/badge/arXiv-2106.11810-b31b1b.svg)](https://arxiv.org/abs/2106.11810)
+**[arXiv'23] gulino2024waymax** — *Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research*  
+[![Paper](https://img.shields.io/badge/Paper-IEEE-4B5D67.svg)](https://ieeexplore.ieee.org/document/10610442)  
+[![arXiv](https://img.shields.io/badge/arXiv-2310.08710-b31b1b.svg)](https://arxiv.org/abs/2310.08710)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/waymo-research/waymax)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://waymo-research.github.io/waymax/)
 
-**[arXiv'23] gulino2024waymax** — *Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.52202/075280-0339)
+**[arXiv'22] wang2022tacto** — *TACTO: A Fast, Flexible, and Open-Source Simulator for High-Resolution Vision-Based Tactile Sensors*  
+[![Paper](https://img.shields.io/badge/Paper-LRA-4B5D67.svg)](https://doi.org/10.1109/LRA.2022.3146945)  
+[![arXiv](https://img.shields.io/badge/arXiv-2012.08456-b31b1b.svg)](https://arxiv.org/abs/2012.08456)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/tacto)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://facebookresearch.github.io/tacto/)
 
-**[arXiv'22] wang2022tacto** — *TACTO: A Fast, Flexible, and Open-Source Simulator for High-Resolution Vision-Based Tactile Sensors*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.1109/lra.2022.3146945)
+**[ECCV'20] chen2020soundspaces** — *SoundSpaces: Audio-Visual Navigation in 3D Environments*  
+[![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4707_ECCV_2020_paper.php)  
+[![arXiv](https://img.shields.io/badge/arXiv-1912.11474-b31b1b.svg)](https://arxiv.org/abs/1912.11474)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/sound-spaces)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://soundspaces.org/)
 
-**[ECCV'20] chen2020soundspaces** — *SoundSpaces: Audio-Visual Navigation in 3D Environments*
-[![arXiv](https://img.shields.io/badge/arXiv-1912.11474-b31b1b.svg)](https://arxiv.org/abs/1912.11474)
+**[arXiv'23] remcom2023wirelessinsite** — *Wireless InSite*  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.remcom.com/wireless-insite-em-propagation-software)
 
-**[arXiv'23] remcom2023wirelessinsite** — *Wireless InSite*
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.remcom.com/wireless-insite-em-propagation-software)
+**[arXiv'17] sun2017nyusim** — *A novel millimeter-wave channel simulator and applications for 5G wireless communications*  
+[![Paper](https://img.shields.io/badge/Paper-ICC-4B5D67.svg)](https://doi.org/10.1109/ICC.2017.7996792)  
+[![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://wireless.engineering.nyu.edu/nyusim/)
 
-**[arXiv'17] sun2017nyusim** — *A novel millimeter-wave channel simulator and applications for 5G wireless communications*
-  [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://doi.org/10.1109/icc.2017.7996792)
-
-**[arXiv'11] young2011imusim** — *IMUSim: A Simulation Environment for Inertial Sensing Algorithm Design and Evaluation*
-    [![Paper](https://img.shields.io/badge/Paper-Link-4B5D67.svg)](https://ieeexplore.ieee.org/document/5779038)
+**[arXiv'11] young2011imusim** — *IMUSim: A Simulation Environment for Inertial Sensing Algorithm Design and Evaluation*  
+[![Paper](https://img.shields.io/badge/Paper-ICISP-4B5D67.svg)](https://ieeexplore.ieee.org/document/5779038)  
+[![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/martinling/imusim)
 
 ## Data Collection
 
