@@ -253,7 +253,8 @@
 #### Sensor-grounded Reasoning
 
 - **[FMSys'24]** *HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1109/fmsys62467.2024.00011)  
+  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1109/fmsys62467.2024.00011)
+  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/aiot-lab/HARGPT)    
 - **[arXiv'24.03]** *LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces*  
   [![arXiv](https://img.shields.io/badge/arXiv-2403.19857-b31b1b.svg)](https://arxiv.org/abs/2403.19857)  
 - **[ACL'25]** *RAVEN: Query-Guided Representation Alignment for Question Answering over Audio, Video, Embedded Sensors, and Natural Language*  
@@ -444,7 +445,8 @@
 - **[MobiCom'23]** *Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses*  
   [![Paper](https://img.shields.io/badge/Paper-MobiCom-4B5D67.svg)](https://doi.org/10.1145/3570361.3613260)  
 - **[Paper'24]** *HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1109/fmsys62467.2024.00011)  
+  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1109/fmsys62467.2024.00011)
+  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/aiot-lab/HARGPT)  
 - **[Paper'25]** *ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs*  
   [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1145/3708468.3711892)  
 - **[arXiv'24.06]** *LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data*  
