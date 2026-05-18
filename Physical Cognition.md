@@ -31,19 +31,13 @@
 
 ### Physical Cognition
 
-- **[arXiv'25.01]** *Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2501.08944-b31b1b.svg)](https://arxiv.org/abs/2501.08944)  
+- **[arXiv'25.01]** *Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action* [![arXiv](https://img.shields.io/badge/arXiv-2501.08944-b31b1b.svg)](https://arxiv.org/abs/2501.08944)
 
-- **[arXiv'25.10]** *Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.04978-b31b1b.svg)](https://arxiv.org/abs/2510.04978)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AI4Phys/Awesome-AI-for-Physics)  
+- **[arXiv'25.10]** *Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI* [![arXiv](https://img.shields.io/badge/arXiv-2510.04978-b31b1b.svg)](https://arxiv.org/abs/2510.04978) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AI4Phys/Awesome-AI-for-Physics)
 
-- **[arXiv'25.07]** *A Survey: Learning Embodied Intelligence from Physical Simulators and World Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2507.00917-b31b1b.svg)](https://arxiv.org/abs/2507.00917)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)  
+- **[arXiv'25.07]** *A Survey: Learning Embodied Intelligence from Physical Simulators and World Models* [![arXiv](https://img.shields.io/badge/arXiv-2507.00917-b31b1b.svg)](https://arxiv.org/abs/2507.00917) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
 
-- **[arXiv'25.03]** *World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b.svg)](https://arxiv.org/abs/2503.15168)  
+- **[arXiv'25.03]** *World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child* [![arXiv](https://img.shields.io/badge/arXiv-2503.15168-b31b1b.svg)](https://arxiv.org/abs/2503.15168)
 
 <a id="state-representation-and-abstraction"></a>
 
@@ -53,57 +47,31 @@
 
 ##### State Abstraction
 
-- **[ICML'19]** *Learning Latent Dynamics for Planning from Pixels (PlaNet)*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v97/hafner19a.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/planet)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://planetrl.github.io/)  
+- **[ICML'19]** *Learning Latent Dynamics for Planning from Pixels (PlaNet)* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v97/hafner19a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/planet) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://planetrl.github.io/)
 
-- **[ICLR'20]** *Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)*  
-  [![Paper](https://img.shields.io/badge/Paper-ICLR-4B5D67.svg)](https://openreview.net/forum?id=S1lOTC4tDS)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/dreamer)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://dreamrl.github.io/)  
+- **[ICLR'20]** *Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)* [![Paper](https://img.shields.io/badge/Paper-ICLR-4B5D67.svg)](https://openreview.net/forum?id=S1lOTC4tDS) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/dreamer) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://dreamrl.github.io/)
 
-- **[ICML'20]** *CURL: Contrastive Unsupervised Representations for Reinforcement Learning*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v119/laskin20a.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/MishaLaskin/curl)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://mishalaskin.github.io/curl/)  
+- **[ICML'20]** *CURL: Contrastive Unsupervised Representations for Reinforcement Learning* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v119/laskin20a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/MishaLaskin/curl) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://mishalaskin.github.io/curl/)
 
-- **[ICML'21]** *Learning Transferable Visual Models From Natural Language Supervision (CLIP)*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v139/radford21a.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/openai/CLIP)  
+- **[ICML'21]** *Learning Transferable Visual Models From Natural Language Supervision (CLIP)* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v139/radford21a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/openai/CLIP)
 
-- **[CVPR'23]** *Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr52729.2023.01499)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/ijepa)  
+- **[CVPR'23]** *Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)* [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr52729.2023.01499) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/ijepa)
 
-- **[CVPR'20]** *VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr42600.2020.01154)  
+- **[CVPR'20]** *VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation* [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr42600.2020.01154)
 
-- **[CVPR'21]** *MP3: A Unified Model to Map, Perceive, Predict and Plan*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr46437.2021.01417)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sergiocasas.github.io/publication/mp3/)  
+- **[CVPR'21]** *MP3: A Unified Model to Map, Perceive, Predict and Plan* [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr46437.2021.01417) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sergiocasas.github.io/publication/mp3/)
 
-- **[arXiv'23.07]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)  
+- **[arXiv'23.07]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models* [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)
 
 <a id="structured-world-representations"></a>
 
 ##### Structured World Representations
 
-- **[ECCV'22]** *BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2203.17270-b31b1b.svg)](https://arxiv.org/abs/2203.17270)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fundamentalvision/BEVFormer)  
+- **[ECCV'22]** *BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers* [![arXiv](https://img.shields.io/badge/arXiv-2203.17270-b31b1b.svg)](https://arxiv.org/abs/2203.17270) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fundamentalvision/BEVFormer)
 
-- **[CVPR'23]** *Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/CVPR52729.2023.00139)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://waabi.ai/research/implicito)  
+- **[CVPR'23]** *Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving* [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/CVPR52729.2023.00139) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://waabi.ai/research/implicito)
 
-- **[ECCV'24]** *OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving*  
-  [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://doi.org/10.1007/978-3-031-72624-8_4)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/wzzheng/OccWorld)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://wzzheng.net/OccWorld/)  
+- **[ECCV'24]** *OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving* [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://doi.org/10.1007/978-3-031-72624-8_4) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/wzzheng/OccWorld) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://wzzheng.net/OccWorld/)
 
 <a id="world-models"></a>
 
@@ -111,91 +79,49 @@
 
 **Foundations and Surveys**
 
-- **[ACM CSUR'26]** *Understanding World or Predicting Future? A Comprehensive Survey of World Models*  
-  [![Paper](https://img.shields.io/badge/Paper-ACM%20CSUR-4B5D67.svg)](https://doi.org/10.1145/3746449)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/tsinghua-fib-lab/World-Model)  
+- **[ACM CSUR'26]** *Understanding World or Predicting Future? A Comprehensive Survey of World Models* [![Paper](https://img.shields.io/badge/Paper-ACM%20CSUR-4B5D67.svg)](https://doi.org/10.1145/3746449) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/tsinghua-fib-lab/World-Model)
 
-- **[arXiv'18.03]** *World Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-1803.10122-b31b1b.svg)](https://arxiv.org/abs/1803.10122)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://worldmodels.github.io/)  
+- **[arXiv'18.03]** *World Models* [![arXiv](https://img.shields.io/badge/arXiv-1803.10122-b31b1b.svg)](https://arxiv.org/abs/1803.10122) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://worldmodels.github.io/)
 
-- **[OpenReview'22]** *A Path Towards Autonomous Machine Intelligence*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://openreview.net/forum?id=BZ5a1r-kVsf)  
+- **[OpenReview'22]** *A Path Towards Autonomous Machine Intelligence* [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://openreview.net/forum?id=BZ5a1r-kVsf)
 
 **Latent Predictive World Models**
 
-- **[ICML'19]** *Learning Latent Dynamics for Planning from Pixels (PlaNet)*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v97/hafner19a.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/planet)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://planetrl.github.io/)  
+- **[ICML'19]** *Learning Latent Dynamics for Planning from Pixels (PlaNet)* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v97/hafner19a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/planet) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://planetrl.github.io/)
 
-- **[ICLR'20]** *Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)*  
-  [![Paper](https://img.shields.io/badge/Paper-ICLR-4B5D67.svg)](https://openreview.net/forum?id=S1lOTC4tDS)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/dreamer)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://dreamrl.github.io/)  
+- **[ICLR'20]** *Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)* [![Paper](https://img.shields.io/badge/Paper-ICLR-4B5D67.svg)](https://openreview.net/forum?id=S1lOTC4tDS) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/dreamer) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://dreamrl.github.io/)
 
-- **[CoRL'22]** *DayDreamer: World Models for Physical Robot Learning*  
-  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/wu23c.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/danijar/daydreamer)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.escontrela.me/daydreamer/)  
+- **[CoRL'22]** *DayDreamer: World Models for Physical Robot Learning* [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/wu23c.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/danijar/daydreamer) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.escontrela.me/daydreamer/)
 
-- **[CVPR'23]** *Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)*  
-  [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr52729.2023.01499)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/ijepa)  
+- **[CVPR'23]** *Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)* [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr52729.2023.01499) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/ijepa)
 
-- **[arXiv'24.04]** *Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2404.08471-b31b1b.svg)](https://arxiv.org/abs/2404.08471)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/jepa)  
+- **[arXiv'24.04]** *Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)* [![arXiv](https://img.shields.io/badge/arXiv-2404.08471-b31b1b.svg)](https://arxiv.org/abs/2404.08471) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/jepa)
 
-- **[arXiv'25.06]** *V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.09985-b31b1b.svg)](https://arxiv.org/abs/2506.09985)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/vjepa2)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://ai.meta.com/research/vjepa/)  
+- **[arXiv'25.06]** *V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning* [![arXiv](https://img.shields.io/badge/arXiv-2506.09985-b31b1b.svg)](https://arxiv.org/abs/2506.09985) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/vjepa2) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://ai.meta.com/research/vjepa/)
 
 **Generative and Interactive World Models**
 
-- **[Tech Report'24]** *Video Generation Models as World Simulators*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://openai.com/index/video-generation-models-as-world-simulators/)  
+- **[Tech Report'24]** *Video Generation Models as World Simulators* [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://openai.com/index/video-generation-models-as-world-simulators/)
 
-- **[ICML'24]** *Genie: Generative Interactive Environments*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v235/bruce24a.html)  
+- **[ICML'24]** *Genie: Generative Interactive Environments* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v235/bruce24a.html)
 
-- **[arXiv'24.08]** *Diffusion Models Are Real-Time Game Engines*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gamengen.github.io/)  
+- **[arXiv'24.08]** *Diffusion Models Are Real-Time Game Engines* [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gamengen.github.io/)
 
-- **[arXiv'23.09]** *GAIA-1: A Generative World Model for Autonomous Driving*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2309.17080-b31b1b.svg)](https://arxiv.org/abs/2309.17080)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://anthonyhu.github.io/gaia1)  
+- **[arXiv'23.09]** *GAIA-1: A Generative World Model for Autonomous Driving* [![arXiv](https://img.shields.io/badge/arXiv-2309.17080-b31b1b.svg)](https://arxiv.org/abs/2309.17080) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://anthonyhu.github.io/gaia1)
 
-- **[arXiv'23.09]** *DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2309.09777-b31b1b.svg)](https://arxiv.org/abs/2309.09777)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/JeffWang987/DriveDreamer)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drivedreamer.github.io/)  
+- **[arXiv'23.09]** *DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving* [![arXiv](https://img.shields.io/badge/arXiv-2309.09777-b31b1b.svg)](https://arxiv.org/abs/2309.09777) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/JeffWang987/DriveDreamer) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drivedreamer.github.io/)
 
-- **[arXiv'25.01]** *Cosmos World Foundation Model Platform for Physical AI*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.nvidia.com/en-us/ai/cosmos/)  
+- **[arXiv'25.01]** *Cosmos World Foundation Model Platform for Physical AI* [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.nvidia.com/en-us/ai/cosmos/)
 
 **Geometric and Structured World Models**
 
-- **[ECCV'24]** *OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving*  
-  [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://doi.org/10.1007/978-3-031-72624-8_4)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/wzzheng/OccWorld)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://wzzheng.net/OccWorld/)  
+- **[ECCV'24]** *OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving* [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://doi.org/10.1007/978-3-031-72624-8_4) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/wzzheng/OccWorld) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://wzzheng.net/OccWorld/)
 
-- **[AAAI'25]** *Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (Drive-OccWorld)*  
-  [![Paper](https://img.shields.io/badge/Paper-AAAI-4B5D67.svg)](https://doi.org/10.1609/aaai.v39i9.33230)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/yuyang-cloud/Drive-OccWorld)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drive-occworld.github.io/)  
+- **[AAAI'25]** *Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving (Drive-OccWorld)* [![Paper](https://img.shields.io/badge/Paper-AAAI-4B5D67.svg)](https://doi.org/10.1609/aaai.v39i9.33230) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/yuyang-cloud/Drive-OccWorld) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drive-occworld.github.io/)
 
-- **[arXiv'25.05]** *Occupancy World Model for Robots (RoboOccWorld)*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.05512-b31b1b.svg)](https://arxiv.org/abs/2505.05512)  
+- **[arXiv'25.05]** *Occupancy World Model for Robots (RoboOccWorld)* [![arXiv](https://img.shields.io/badge/arXiv-2505.05512-b31b1b.svg)](https://arxiv.org/abs/2505.05512)
 
-- **[ICML'24]** *3D-VLA: A 3D Vision-Language-Action Generative World Model*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v235/zhen24a.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/UMass-Embodied-AGI/3D-VLA)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://vis-www.cs.umass.edu/3dvla/)  
+- **[ICML'24]** *3D-VLA: A 3D Vision-Language-Action Generative World Model* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v235/zhen24a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/UMass-Embodied-AGI/3D-VLA) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://vis-www.cs.umass.edu/3dvla/)
 
 <a id="reasoning-and-planning"></a>
 
@@ -205,28 +131,17 @@
 
 #### Task Specification and Problem Formulation
 
-- **[AI'71]** *STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving*  
-  [![Paper](https://img.shields.io/badge/Paper-AI-4B5D67.svg)](https://doi.org/10.1016/0004-3702(71)90010-5)  
+- **[AI'71]** *STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving* [![Paper](https://img.shields.io/badge/Paper-AI-4B5D67.svg)](https://doi.org/10.1016/0004-3702(71)90010-5)
 
-- **[Book'06]** *Planning Algorithms*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](http://planning.cs.uiuc.edu/)  
+- **[Book'06]** *Planning Algorithms* [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](http://planning.cs.uiuc.edu/)
 
-- **[AI'98]** *Planning and Acting in Partially Observable Stochastic Domains*  
-  [![Paper](https://img.shields.io/badge/Paper-AI-4B5D67.svg)](https://doi.org/10.1016/S0004-3702(98)00023-X)  
+- **[AI'98]** *Planning and Acting in Partially Observable Stochastic Domains* [![Paper](https://img.shields.io/badge/Paper-AI-4B5D67.svg)](https://doi.org/10.1016/S0004-3702(98)00023-X)
 
-- **[CoRL'22]** *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (SayCan)*  
-  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/ichter23a.html)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2204.01691-b31b1b.svg)](https://arxiv.org/abs/2204.01691)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/google-research/tree/master/saycan)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://say-can.github.io/)  
+- **[CoRL'22]** *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (SayCan)* [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/ichter23a.html) [![arXiv](https://img.shields.io/badge/arXiv-2204.01691-b31b1b.svg)](https://arxiv.org/abs/2204.01691) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/google-research/tree/master/saycan) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://say-can.github.io/)
 
-- **[arXiv'23.07]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)  
+- **[arXiv'23.07]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models* [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)
 
-- **[Annu. Rev. Control Robot. Auton. Syst.'21]** *Integrated Task and Motion Planning*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1146/annurev-control-091420-084139)  
+- **[Annu. Rev. Control Robot. Auton. Syst.'21]** *Integrated Task and Motion Planning* [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1146/annurev-control-091420-084139)
 
 <a id="motion-planning"></a>
 
@@ -234,93 +149,53 @@
 
 **Sampling-Based Planning**
 
-- **[Tech Report'98]** *Rapidly-Exploring Random Trees: A New Tool for Path Planning (RRT)*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)  
+- **[Tech Report'98]** *Rapidly-Exploring Random Trees: A New Tool for Path Planning (RRT)* [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)
 
-- **[IJRR'11]** *Sampling-Based Algorithms for Optimal Motion Planning (RRT\*)*  
-  [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/0278364911406761)  
+- **[IJRR'11]** *Sampling-Based Algorithms for Optimal Motion Planning (RRT\*)* [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/0278364911406761)
 
-- **[T-RA'96]** *Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces (PRM)*  
-  [![Paper](https://img.shields.io/badge/Paper-IEEE-4B5D67.svg)](https://doi.org/10.1109/70.508439)  
+- **[T-RA'96]** *Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces (PRM)* [![Paper](https://img.shields.io/badge/Paper-IEEE-4B5D67.svg)](https://doi.org/10.1109/70.508439)
 
-- **[JOSER'14]** *Reducing the Barrier to Entry of Complex Robotic Software: A MoveIt! Case Study*  
-  [![Paper](https://img.shields.io/badge/Paper-JOSER-4B5D67.svg)](https://doi.org/10.6092/JOSER_2014_05_01_p3)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/moveit/moveit)  
+- **[JOSER'14]** *Reducing the Barrier to Entry of Complex Robotic Software: A MoveIt! Case Study* [![Paper](https://img.shields.io/badge/Paper-JOSER-4B5D67.svg)](https://doi.org/10.6092/JOSER_2014_05_01_p3) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/moveit/moveit)
 
 **Optimization-Based Planning**
 
-- **[ICRA'09]** *CHOMP: Gradient Optimization Techniques for Efficient Motion Planning*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ROBOT.2009.5152817)  
+- **[ICRA'09]** *CHOMP: Gradient Optimization Techniques for Efficient Motion Planning* [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ROBOT.2009.5152817)
 
-- **[IJRR'14]** *Motion Planning with Sequential Convex Optimization and Convex Collision Checking (TrajOpt)*  
-  [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/0278364914528132)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/joschu/trajopt)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://rll.berkeley.edu/trajopt/ijrr/)  
+- **[IJRR'14]** *Motion Planning with Sequential Convex Optimization and Convex Collision Checking (TrajOpt)* [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/0278364914528132) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/joschu/trajopt) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://rll.berkeley.edu/trajopt/ijrr/)
 
-- **[RSS'18]** *Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning*  
-  [![Paper](https://img.shields.io/badge/Paper-RSS-4B5D67.svg)](https://doi.org/10.15607/rss.2018.xiv.044)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/MarcToussaint/18-RSS-PhysicalManipulation)  
+- **[RSS'18]** *Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning* [![Paper](https://img.shields.io/badge/Paper-RSS-4B5D67.svg)](https://doi.org/10.15607/rss.2018.xiv.044) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/MarcToussaint/18-RSS-PhysicalManipulation)
 
 **Task-and-Motion Planning**
 
-- **[Annu. Rev. Control Robot. Auton. Syst.'21]** *Integrated Task and Motion Planning*  
-  [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1146/annurev-control-091420-084139)  
+- **[Annu. Rev. Control Robot. Auton. Syst.'21]** *Integrated Task and Motion Planning* [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1146/annurev-control-091420-084139)
 
-- **[ICAPS'20]** *PDDLStream: Integrating Symbolic Planners and Blackbox Samplers via Optimistic Adaptive Planning*  
-  [![Paper](https://img.shields.io/badge/Paper-ICAPS-4B5D67.svg)](https://doi.org/10.1609/ICAPS.V30I1.6739)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/caelan/pddlstream)  
+- **[ICAPS'20]** *PDDLStream: Integrating Symbolic Planners and Blackbox Samplers via Optimistic Adaptive Planning* [![Paper](https://img.shields.io/badge/Paper-ICAPS-4B5D67.svg)](https://doi.org/10.1609/ICAPS.V30I1.6739) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/caelan/pddlstream)
 
-- **[RSS'20]** *Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image*  
-  [![Paper](https://img.shields.io/badge/Paper-RSS-4B5D67.svg)](https://doi.org/10.15607/rss.2020.xvi.003)  
+- **[RSS'20]** *Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image* [![Paper](https://img.shields.io/badge/Paper-RSS-4B5D67.svg)](https://doi.org/10.15607/rss.2020.xvi.003)
 
-- **[CoRL'22]** *Inner Monologue: Embodied Reasoning through Planning with Language Models*  
-  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/huang23c.html)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://innermonologue.github.io/)  
+- **[CoRL'22]** *Inner Monologue: Embodied Reasoning through Planning with Language Models* [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/huang23c.html) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://innermonologue.github.io/)
 
-- **[IJRR'25]** *LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models*  
-  [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/02783649251378196)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/bu-air-lab/llm-grop)  
+- **[IJRR'25]** *LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models* [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/02783649251378196) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/bu-air-lab/llm-grop)
 
-- **[arXiv'25.10]** *Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.16344-b31b1b.svg)](https://arxiv.org/abs/2510.16344)  
+- **[arXiv'25.10]** *Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models* [![arXiv](https://img.shields.io/badge/arXiv-2510.16344-b31b1b.svg)](https://arxiv.org/abs/2510.16344)
 
 **Learning-Based Motion Planning**
 
-- **[ICRA'19]** *Motion Planning Networks*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ICRA.2019.8793889)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ahq1993/MPNet)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sites.google.com/view/mpnet/home)  
+- **[ICRA'19]** *Motion Planning Networks* [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ICRA.2019.8793889) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ahq1993/MPNet) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sites.google.com/view/mpnet/home)
 
-- **[ICML'22]** *Planning with Diffusion for Flexible Behavior Synthesis (Diffuser)*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v162/janner22a.html)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/jannerm/diffuser)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://diffusion-planning.github.io/)  
+- **[ICML'22]** *Planning with Diffusion for Flexible Behavior Synthesis (Diffuser)* [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v162/janner22a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/jannerm/diffuser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://diffusion-planning.github.io/)
 
-- **[ICRA'21]** *RelMoGen: Leveraging Motion Generation in Reinforcement Learning for Mobile Manipulation*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://ieeexplore.ieee.org/document/9561234)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://svl.stanford.edu/projects/relmogen/)  
+- **[ICRA'21]** *RelMoGen: Leveraging Motion Generation in Reinforcement Learning for Mobile Manipulation* [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://ieeexplore.ieee.org/document/9561234) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://svl.stanford.edu/projects/relmogen/)
 
-- **[ICRA'25]** *PRESTO: Fast Motion Planning Using Diffusion Models Based on Key-Configuration Environment Representation*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ICRA55743.2025.11128590)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/kiwi-sherbet/PRESTO)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://kiwi-sherbet.github.io/PRESTO/)  
+- **[ICRA'25]** *PRESTO: Fast Motion Planning Using Diffusion Models Based on Key-Configuration Environment Representation* [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ICRA55743.2025.11128590) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/kiwi-sherbet/PRESTO) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://kiwi-sherbet.github.io/PRESTO/)
 
-- **[arXiv'25.11]** *RRT\*former: Environment-Aware Sampling-Based Motion Planning using Transformer*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2511.15414-b31b1b.svg)](https://arxiv.org/abs/2511.15414)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fengmingyang666/RRTformer)  
+- **[arXiv'25.11]** *RRT\*former: Environment-Aware Sampling-Based Motion Planning using Transformer* [![arXiv](https://img.shields.io/badge/arXiv-2511.15414-b31b1b.svg)](https://arxiv.org/abs/2511.15414) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fengmingyang666/RRTformer)
 
-- **[arXiv'25.04]** *SafeFlow: Safe Robot Motion Planning with Flow Matching via Control Barrier Functions*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2504.08661-b31b1b.svg)](https://arxiv.org/abs/2504.08661)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/SafeFlowMatching/SafeFlow)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://safeflowmatching.github.io/)  
+- **[arXiv'25.04]** *SafeFlow: Safe Robot Motion Planning with Flow Matching via Control Barrier Functions* [![arXiv](https://img.shields.io/badge/arXiv-2504.08661-b31b1b.svg)](https://arxiv.org/abs/2504.08661) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/SafeFlowMatching/SafeFlow) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://safeflowmatching.github.io/)
 
-- **[CoRL'25]** *ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training*  
-  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://openreview.net/forum?id=a6I9P5V6u7)  
-  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/geyan21/ManiFlow_Policy)  
-  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://maniflow-policy.github.io/)  
+- **[CoRL'25]** *ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training* [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://openreview.net/forum?id=a6I9P5V6u7) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/geyan21/ManiFlow_Policy) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://maniflow-policy.github.io/)
 
-- **[arXiv'25.03]** *FRMD: Fast Robot Motion Diffusion with Consistency-Distilled Movement Primitives for Smooth Action Generation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.02048-b31b1b.svg)](https://arxiv.org/abs/2503.02048)  
+- **[arXiv'25.03]** *FRMD: Fast Robot Motion Diffusion with Consistency-Distilled Movement Primitives for Smooth Action Generation* [![arXiv](https://img.shields.io/badge/arXiv-2503.02048-b31b1b.svg)](https://arxiv.org/abs/2503.02048)
 
 
 #### Vision-Language-Action and Action Representations
