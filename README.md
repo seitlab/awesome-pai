@@ -32,6 +32,8 @@
   <sup>†</sup>Corresponding Author
 </p>
 
+</div>
+
 This repository accompanies our survey **Physical AI: A Comprehensive Survey** — a system-level survey of Physical AI (PAI) that connects multimodal physical perception, embodied cognition, real-world actuation, and the simulators, data, and digital twins required to build and evaluate such systems.
 
 - 📄 We maintain a curated list of papers, code, websites, models, benchmarks, and datasets covering the full PAI loop: **Perception → Cognition → Actuation & Execution → Building Blocks (Simulators, Data, Benchmarks, Digital Twins).**
