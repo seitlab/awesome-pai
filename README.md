@@ -1,6 +1,6 @@
 <div align="center">
-
-# Awesome Physical AI
+# Physical AI: A Comprehensive Survey of Enabling Technologies From
+A Systems Perspective
 
 [![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](#)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Paper-yellow.svg)](#)
@@ -1131,7 +1131,8 @@ If you find this repository useful for your research, please consider citing our
 
 ```bibtex
 @article{liu2026physicalai,
-  title   = {Physical AI: A Comprehensive Survey},
+  title   = {Physical AI: A Comprehensive Survey of Enabling Technologies From
+A Systems Perspective},
   author  = {Liu, Shengding and Zhang, Zhanwei and Li, Zhiying and Lin, Yudi and Lin, Ruxin and Liu, Xiaoqun and Nguyen, Khang and Gao, Ziran and Liao, Guopeng and Mo, Jingxiang and Jiang, Linshan and Yang, Jianfei and Azulay, Osher and Yu, Stella X. and Yu, Philip S. and Yan, Qiben},
   year    = {2026},
 }
