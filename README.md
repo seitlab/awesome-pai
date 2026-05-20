@@ -1,5 +1,5 @@
 <div align="center">
-## Physical AI: A Comprehensive Survey of Enabling Technologies FromA Systems Perspective
+# Physical AI: A Comprehensive Survey of Enabling Technologies FromA Systems Perspective
 
 [![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](#)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Paper-yellow.svg)](#)
