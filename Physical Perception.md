@@ -454,5 +454,7 @@
 - **[ACL'25]** *ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data*  
   [![Paper](https://img.shields.io/badge/Paper-ACL-4B5D67.svg)](https://doi.org/10.18653/v1/2025.findings-acl.1033)  
 - **[ACL'25]** *MEIT: Multimodal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation*  
-  [![Paper](https://img.shields.io/badge/Paper-ACL-4B5D67.svg)](https://doi.org/10.18653/v1/2025.findings-acl.749)  
+  [![Paper](https://img.shields.io/badge/Paper-ACL-4B5D67.svg)](https://doi.org/10.18653/v1/2025.findings-acl.749)
+  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AIoT-MLSys-Lab/MEIT)  
+
 
