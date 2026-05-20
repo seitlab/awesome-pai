@@ -1,20 +1,36 @@
 <div align="center">
-# Physical AI: A Comprehensive Survey of Enabling Technologies FromA Systems Perspective
+# Physical AI: A Comprehensive Survey of Enabling Technologies From A Systems Perspective
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](#)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Paper-yellow.svg)](#)
-[![Website](https://img.shields.io/badge/Website-Link-0A66C2.svg)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?logo=github)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](#)[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Paper-yellow.svg)](#)[![Website](https://img.shields.io/badge/Website-Link-0A66C2.svg)](#)[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?logo=github)](https://github.com/seitlab/awesome-pai)
 
-Shengding Liu<sup>1</sup>, Zhanwei Zhang<sup>1</sup>, Zhiying Li<sup>1</sup>, Yudi Lin<sup>2</sup>, Ruxin Lin<sup>1</sup>, Xiaoqun Liu<sup>1</sup>, Khang Nguyen<sup>1</sup>, Ziran Gao<sup>1</sup>, Guopeng Liao<sup>3</sup>, Jingxiang Mo<sup>4</sup>, Linshan Jiang<sup>2</sup>, Jianfei Yang<sup>2</sup>, Osher Azulay<sup>5</sup>, Stella X. Yu<sup>5</sup>, Philip S. Yu<sup>6</sup>, Qiben Yan<sup>1,†</sup>
+<p align="center">
+  Shengding Liu<sup>1</sup>,
+  Zhanwei Zhang<sup>1</sup>,
+  Zhiying Li<sup>1</sup>,
+  Yudi Lin<sup>2</sup>,
+  Ruxin Lin<sup>1</sup>,
+  Xiaoqun Liu<sup>1</sup>,<br>
+  Khang Nguyen<sup>1</sup>,
+  Ziran Gao<sup>1</sup>,
+  Guopeng Liao<sup>3</sup>,
+  Jingxiang Mo<sup>4</sup>,
+  Linshan Jiang<sup>2</sup>,
+  Jianfei Yang<sup>2</sup>,<br>
+  Osher Azulay<sup>5</sup>,
+  Stella X. Yu<sup>5</sup>,
+  Philip S. Yu<sup>6</sup>,
+  Qiben Yan<sup>1,†</sup>
+</p>
 
-<sup>1</sup>Michigan State University, <sup>2</sup>Nanyang Technological University,
-<sup>3</sup>Meta, <sup>4</sup>Gradient Robotics,
-<sup>5</sup>University of Michigan, <sup>6</sup>University of Illinois Chicago
-
-<sup>†</sup>Corresponding Author
-
-</div>
+<p align="center">
+  <sup>1</sup>Michigan State University,
+  <sup>2</sup>Nanyang Technological University,
+  <sup>3</sup>Meta,<br>
+  <sup>4</sup>Gradient Robotics,
+  <sup>5</sup>University of Michigan,
+  <sup>6</sup>University of Illinois Chicago<br>
+  <sup>†</sup>Corresponding Author
+</p>
 
 This repository accompanies our survey **Physical AI: A Comprehensive Survey** — a system-level survey of Physical AI (PAI) that connects multimodal physical perception, embodied cognition, real-world actuation, and the simulators, data, and digital twins required to build and evaluate such systems.
 
