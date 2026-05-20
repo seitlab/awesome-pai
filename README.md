@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 #  Physical AI: A Comprehensive Survey of Enabling Technologies From A Systems Perspective
 
