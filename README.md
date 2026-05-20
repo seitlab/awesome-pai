@@ -1,7 +1,7 @@
 <div align="center">
 # Physical AI: A Comprehensive Survey of Enabling Technologies From A Systems Perspective
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](#)[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Paper-yellow.svg)](#)[![Website](https://img.shields.io/badge/Website-Link-0A66C2.svg)](#)[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?logo=github)](https://github.com/seitlab/awesome-pai)
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](#) [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Paper-yellow.svg)](#) [![Website](https://img.shields.io/badge/Website-Link-0A66C2.svg)](#) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717.svg?logo=github)](https://github.com/seitlab/awesome-pai)
 
 <p align="center">
   Shengding Liu<sup>1</sup>,
