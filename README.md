@@ -42,8 +42,6 @@ This repository accompanies our survey **Physical AI: A Comprehensive Survey** �
 - 🤖 The list is organized around the four pillars used in the survey, with each section grouped by the methodological theme (e.g., physics-informed perception, world models, motion planning, simulation-based data generation).
 - 💛 If you find missing papers, outdated links, or incorrect metadata, feel free to open an issue or submit a pull request!
 
----
-
 ## Table of Contents
 
 - [1. Physical Perception](#1-physical-perception)
