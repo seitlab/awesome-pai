@@ -72,15 +72,15 @@
 - **[CVPR'21]** *MP3: A Unified Model to Map, Perceive, Predict and Plan*  
   [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr46437.2021.01417) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sergiocasas.github.io/publication/mp3/)
 
-- **[arXiv'23.07]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)
+- **[CoRL'23]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*  
+  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v229/huang23b.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)
 
 <a id="structured-world-representations"></a>
 
 ##### Structured World Representations
 
 - **[ECCV'22]** *BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2203.17270-b31b1b.svg)](https://arxiv.org/abs/2203.17270) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fundamentalvision/BEVFormer)
+  [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://doi.org/10.1007/978-3-031-20077-9_1) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fundamentalvision/BEVFormer)
 
 - **[CVPR'23]** *Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving*  
   [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/CVPR52729.2023.00139) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://waabi.ai/research/implicito)
@@ -97,8 +97,8 @@
 - **[ACM CSUR'26]** *Understanding World or Predicting Future? A Comprehensive Survey of World Models*  
   [![Paper](https://img.shields.io/badge/Paper-ACM%20CSUR-4B5D67.svg)](https://doi.org/10.1145/3746449) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/tsinghua-fib-lab/World-Model)
 
-- **[arXiv'18.03]** *World Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-1803.10122-b31b1b.svg)](https://arxiv.org/abs/1803.10122) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://worldmodels.github.io/)
+- **[NeurIPS'18]** *Recurrent World Models Facilitate Policy Evolution*  
+  [![Paper](https://img.shields.io/badge/Paper-NeurIPS-4B5D67.svg)](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/hardmaru/WorldModelsExperiments) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://worldmodels.github.io/)
 
 - **[OpenReview'22]** *A Path Towards Autonomous Machine Intelligence*  
   [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://openreview.net/forum?id=BZ5a1r-kVsf)
@@ -117,8 +117,8 @@
 - **[CVPR'23]** *Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)*  
   [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr52729.2023.01499) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/ijepa)
 
-- **[arXiv'24.04]** *Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2404.08471-b31b1b.svg)](https://arxiv.org/abs/2404.08471) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/jepa)
+- **[TMLR'24]** *Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA)*  
+  [![Paper](https://img.shields.io/badge/Paper-TMLR-4B5D67.svg)](https://openreview.net/forum?id=QaCCuDfBk2) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/jepa)
 
 - **[arXiv'25.06]** *V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning*  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.09985-b31b1b.svg)](https://arxiv.org/abs/2506.09985) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/facebookresearch/vjepa2) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://ai.meta.com/research/vjepa/)
@@ -129,19 +129,19 @@
   [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://openai.com/index/video-generation-models-as-world-simulators/)
 
 - **[ICML'24]** *Genie: Generative Interactive Environments*  
-  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v235/bruce24a.html)
+  [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v235/bruce24a.html) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://sites.google.com/view/genie-2024/home)
 
-- **[arXiv'24.08]** *Diffusion Models Are Real-Time Game Engines*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gamengen.github.io/)
+- **[ICLR'25]** *Diffusion Models Are Real-Time Game Engines*  
+  [![Paper](https://img.shields.io/badge/Paper-ICLR-4B5D67.svg)](https://openreview.net/forum?id=P8pqeEkn1H) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gamengen.github.io/)
 
 - **[arXiv'23.09]** *GAIA-1: A Generative World Model for Autonomous Driving*  
   [![arXiv](https://img.shields.io/badge/arXiv-2309.17080-b31b1b.svg)](https://arxiv.org/abs/2309.17080) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://anthonyhu.github.io/gaia1)
 
-- **[arXiv'23.09]** *DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2309.09777-b31b1b.svg)](https://arxiv.org/abs/2309.09777) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/JeffWang987/DriveDreamer) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drivedreamer.github.io/)
+- **[ECCV'24]** *DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving*  
+  [![Paper](https://img.shields.io/badge/Paper-ECCV-4B5D67.svg)](https://doi.org/10.1007/978-3-031-73195-2_4) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/JeffWang987/DriveDreamer) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://drivedreamer.github.io/)
 
 - **[arXiv'25.01]** *Cosmos World Foundation Model Platform for Physical AI*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.nvidia.com/en-us/ai/cosmos/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/nvidia-cosmos) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://www.nvidia.com/en-us/ai/cosmos/)
 
 **Geometric and Structured World Models**
 
@@ -177,8 +177,8 @@
 - **[CoRL'22]** *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (SayCan)*  
   [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v205/ichter23a.html) [![arXiv](https://img.shields.io/badge/arXiv-2204.01691-b31b1b.svg)](https://arxiv.org/abs/2204.01691) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/google-research/tree/master/saycan) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://say-can.github.io/)
 
-- **[arXiv'23.07]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)
+- **[CoRL'23]** *VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models*  
+  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v229/huang23b.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/huangwl18/VoxPoser) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://voxposer.github.io/)
 
 - **[Annu. Rev. Control Robot. Auton. Syst.'21]** *Integrated Task and Motion Planning*  
   [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://doi.org/10.1146/annurev-control-091420-084139)
@@ -229,8 +229,8 @@
 - **[IJRR'25]** *LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models*  
   [![Paper](https://img.shields.io/badge/Paper-IJRR-4B5D67.svg)](https://doi.org/10.1177/02783649251378196) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/bu-air-lab/llm-grop)
 
-- **[arXiv'25.10]** *Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.16344-b31b1b.svg)](https://arxiv.org/abs/2510.16344)
+- **[ICRA'26]** *Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models*  
+  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://arxiv.org/abs/2510.16344) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://nus-lins-lab.github.io/Manual2SkillPP/)
 
 **Learning-Based Motion Planning**
 
@@ -246,8 +246,8 @@
 - **[ICRA'25]** *PRESTO: Fast Motion Planning Using Diffusion Models Based on Key-Configuration Environment Representation*  
   [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/ICRA55743.2025.11128590) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/kiwi-sherbet/PRESTO) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://kiwi-sherbet.github.io/PRESTO/)
 
-- **[arXiv'25.11]** *RRT\*former: Environment-Aware Sampling-Based Motion Planning using Transformer*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2511.15414-b31b1b.svg)](https://arxiv.org/abs/2511.15414) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fengmingyang666/RRTformer)
+- **[IROS'25]** *RRT\*former: Environment-Aware Sampling-Based Motion Planning using Transformer*  
+  [![Paper](https://img.shields.io/badge/Paper-IROS-4B5D67.svg)](https://arxiv.org/abs/2511.15414) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/fengmingyang666/RRTformer)
 
 - **[arXiv'25.04]** *SafeFlow: Safe Robot Motion Planning with Flow Matching via Control Barrier Functions*  
   [![arXiv](https://img.shields.io/badge/arXiv-2504.08661-b31b1b.svg)](https://arxiv.org/abs/2504.08661) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/SafeFlowMatching/SafeFlow) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://safeflowmatching.github.io/)
@@ -255,8 +255,8 @@
 - **[CoRL'25]** *ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training*  
   [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://openreview.net/forum?id=a6I9P5V6u7) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/geyan21/ManiFlow_Policy) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://maniflow-policy.github.io/)
 
-- **[arXiv'25.03]** *FRMD: Fast Robot Motion Diffusion with Consistency-Distilled Movement Primitives for Smooth Action Generation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.02048-b31b1b.svg)](https://arxiv.org/abs/2503.02048)
+- **[Front. Robot. AI'26]** *FRMD: Fast Robot Motion Diffusion via Trajectory-Level Consistency Distillation*  
+  [![Paper](https://img.shields.io/badge/Paper-Frontiers-4B5D67.svg)](https://doi.org/10.3389/frobt.2026.1751688)
 
 
 #### Vision-Language-Action and Action Representations
@@ -351,11 +351,11 @@
 
 ### Memory
 
-- **[arXiv'25.05]** *AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.10468-b31b1b.svg)](https://arxiv.org/abs/2505.10468)  
+- **[Information Fusion'25]** *AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges*  
+  [![Paper](https://img.shields.io/badge/Paper-Information%20Fusion-4B5D67.svg)](https://doi.org/10.1016/j.inffus.2025.103599)  
 
 - **[TOIS'25]** *A Survey on the Memory Mechanism of Large Language Model-based Agents*  
-  [![Paper](https://img.shields.io/badge/Paper-TOIS-4B5D67.svg)](https://doi.org/10.1145/3748302)  
+  [![Paper](https://img.shields.io/badge/Paper-TOIS-4B5D67.svg)](https://doi.org/10.1145/3748302) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/nuster1128/LLM_Agent_Memory_Survey)  
 
 - **[arXiv'25.07]** *State and Memory is All You Need for Robust and Reliable AI Agents*  
   [![arXiv](https://img.shields.io/badge/arXiv-2507.00081-b31b1b.svg)](https://arxiv.org/abs/2507.00081)  
@@ -369,14 +369,14 @@
 - **[HRI'25]** *From Interaction to Relationship: The Role of Memory, Learning, and Emotional Intelligence in AI-Embodied Human Engagement*  
   [![Paper](https://img.shields.io/badge/Paper-HRI-4B5D67.svg)](https://doi.org/10.1109/hri61500.2025.10973813)  
 
-- **[arXiv'24.01]** *Memory, Space, and Planning: Multiscale Predictive Representations*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2401.09491-b31b1b.svg)](https://arxiv.org/abs/2401.09491)  
+- **[OUP'25]** *Memory, Space, and Planning: Multiscale Predictive Representations*  
+  [![Paper](https://img.shields.io/badge/Paper-OUP-4B5D67.svg)](https://arxiv.org/abs/2401.09491)  
 
 - **[Humanoids'24]** *Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation*  
   [![Paper](https://img.shields.io/badge/Paper-Humanoids-4B5D67.svg)](https://doi.org/10.1109/humanoids58906.2024.10769803)  
 
 - **[Nat. Mach. Intell.'25]** *Embodied Large Language Models Enable Robots to Complete Complex Tasks in Unpredictable Environments*  
-  [![Paper](https://img.shields.io/badge/Paper-Nat.%20Mach.%20Intell.-4B5D67.svg)](https://doi.org/10.1038/s42256-025-01005-x)  
+  [![Paper](https://img.shields.io/badge/Paper-Nat.%20Mach.%20Intell.-4B5D67.svg)](https://doi.org/10.1038/s42256-025-01005-x) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/ruaridhmon/ELLMER)  
 
 - **[F1000Research'25]** *A Review of Agentic AI in Cybersecurity: Cognitive Autonomy, Ethical Governance, and Quantum-Resilient Defense*  
   [![Paper](https://img.shields.io/badge/Paper-F1000Research-4B5D67.svg)](https://doi.org/10.12688/f1000research.169337.1)  
@@ -392,7 +392,7 @@
   [![Paper](https://img.shields.io/badge/Paper-Psych.%20Bull.-4B5D67.svg)](https://doi.org/10.1037/bul0000153)  
 
 - **[Front. Comput. Neurosci.'24]** *Design and Evaluation of a Global Workspace Agent Embodied in a Realistic Multimodal Environment*  
-  [![Paper](https://img.shields.io/badge/Paper-Front.%20Comput.%20Neurosci.-4B5D67.svg)](https://doi.org/10.3389/fncom.2024.1352685)  
+  [![Paper](https://img.shields.io/badge/Paper-Front.%20Comput.%20Neurosci.-4B5D67.svg)](https://doi.org/10.3389/fncom.2024.1352685) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/arayabrain/multimodal-global-workspace-agent)  
 
 - **[Cell'20]** *A Thalamic Orphan Receptor Drives Variability in Short-Term Memory*  
   [![Paper](https://img.shields.io/badge/Paper-Cell-4B5D67.svg)](https://doi.org/10.1016/j.cell.2020.09.011)  
@@ -429,7 +429,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-2504.20109-b31b1b.svg)](https://arxiv.org/abs/2504.20109)  
 
 - **[Nat. Commun.'25]** *Hybrid Neural Networks for Continual Learning Inspired by Corticohippocampal Circuits*  
-  [![Paper](https://img.shields.io/badge/Paper-Nat.%20Commun.-4B5D67.svg)](https://doi.org/10.1038/s41467-025-56405-9)  
+  [![Paper](https://img.shields.io/badge/Paper-Nat.%20Commun.-4B5D67.svg)](https://doi.org/10.1038/s41467-025-56405-9) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/qqish/CH-HNN)  
 
 <a id="episodic-memory"></a>
 
@@ -448,7 +448,7 @@
   [![Paper](https://img.shields.io/badge/Paper-Sensors-4B5D67.svg)](https://doi.org/10.3390/s22052017)  
 
 - **[RA-L'18]** *Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution*  
-  [![Paper](https://img.shields.io/badge/Paper-RA--L-4B5D67.svg)](https://doi.org/10.1109/lra.2018.2860057)  
+  [![Paper](https://img.shields.io/badge/Paper-RA--L-4B5D67.svg)](https://doi.org/10.1109/lra.2018.2860057) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/jonasrothfuss/DeepEpisodicMemory)  
 
 - **[Nat. Commun.'21]** *Robust High-Dimensional Memory-Augmented Neural Networks*  
   [![Paper](https://img.shields.io/badge/Paper-Nat.%20Commun.-4B5D67.svg)](https://doi.org/10.1038/s41467-021-22364-0)  
@@ -457,7 +457,7 @@
   [![Paper](https://img.shields.io/badge/Paper-IEEE%20TAI-4B5D67.svg)](https://doi.org/10.1109/tai.2023.3329454)  
 
 - **[eLife'22]** *A Neural Network Model of When to Retrieve and Encode Episodic Memories*  
-  [![Paper](https://img.shields.io/badge/Paper-eLife-4B5D67.svg)](https://doi.org/10.7554/eLife.74445)  
+  [![Paper](https://img.shields.io/badge/Paper-eLife-4B5D67.svg)](https://doi.org/10.7554/eLife.74445) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/qihongl/learn-hippo)  
 
 - **[ICLP Workshop'23]** *On the Risks and Benefits of Episodic Memory in AI Agents*  
   [![Paper](https://img.shields.io/badge/Paper-link-4B5D67.svg)](https://arxiv.org/abs/2306.07000)  
@@ -466,7 +466,7 @@
   [![Paper](https://img.shields.io/badge/Paper-Sci.%20Rep.-4B5D67.svg)](https://doi.org/10.1038/s41598-025-10586-x)  
 
 - **[arXiv'26.03]** *Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.24576-b31b1b.svg)](https://arxiv.org/abs/2603.24576)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.24576-b31b1b.svg)](https://arxiv.org/abs/2603.24576) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/gxyes/MARS_Chameleon)  
 
 <a id="semantic-memory"></a>
 
@@ -475,17 +475,17 @@
 - **[arXiv'25.04]** *Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning*  
   [![arXiv](https://img.shields.io/badge/arXiv-2504.06135-b31b1b.svg)](https://arxiv.org/abs/2504.06135)  
 
-- **[arXiv'25.07]** *Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2507.22925-b31b1b.svg)](https://arxiv.org/abs/2507.22925)  
+- **[EACL'26]** *H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents*  
+  [![Paper](https://img.shields.io/badge/Paper-EACL-4B5D67.svg)](https://aclanthology.org/2026.eacl-long.15/)  
 
 - **[IJCAI'25]** *AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents*  
-  [![Paper](https://img.shields.io/badge/Paper-IJCAI-4B5D67.svg)](https://doi.org/10.24963/ijcai.2025/2)  
+  [![Paper](https://img.shields.io/badge/Paper-IJCAI-4B5D67.svg)](https://doi.org/10.24963/ijcai.2025/2) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AIRI-Institute/AriGraph)  
 
 - **[arXiv'25.07]** *MIRIX: Multi-Agent Memory System for LLM-Based Agents*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2507.07957-b31b1b.svg)](https://arxiv.org/abs/2507.07957)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2507.07957-b31b1b.svg)](https://arxiv.org/abs/2507.07957) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/Mirix-AI/MIRIX) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://mirix.io/)  
 
 - **[arXiv'25.04]** *Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2504.19413-b31b1b.svg)](https://arxiv.org/abs/2504.19413)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2504.19413-b31b1b.svg)](https://arxiv.org/abs/2504.19413) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/mem0ai/mem0) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://mem0.ai/)  
 
 - **[arXiv'25.06]** *PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM Agents*  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.17001-b31b1b.svg)](https://arxiv.org/abs/2506.17001)  
@@ -503,8 +503,8 @@
 - **[NeurIPS'20]** *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*  
   [![Paper](https://img.shields.io/badge/Paper-NeurIPS-4B5D67.svg)](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)  
 
-- **[arXiv'25.03]** *Retrieval-Augmented Generation with Hierarchical Knowledge*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.10150-b31b1b.svg)](https://arxiv.org/abs/2503.10150)  
+- **[EMNLP'25 Findings]** *Retrieval-Augmented Generation with Hierarchical Knowledge*  
+  [![Paper](https://img.shields.io/badge/Paper-EMNLP-4B5D67.svg)](https://aclanthology.org/2025.findings-emnlp.321/) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/hhy-huang/HiRAG)  
 
 - **[ICT'25]** *Enhancing Retrieval Augmented Generation with Hierarchical Text Segmentation Chunking*  
   [![Paper](https://img.shields.io/badge/Paper-Springer-4B5D67.svg)](https://link.springer.com/chapter/10.1007/978-981-96-3026-9_16)  
@@ -566,7 +566,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-2204.01691-b31b1b.svg)](https://arxiv.org/abs/2204.01691)  
 
 - **[ICRA'23]** *ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/icra48891.2023.10161317)  
+  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/icra48891.2023.10161317) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/NVlabs/progprompt-vh) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://progprompt.github.io/)  
 
 - **[CVPR'24]** *Retrieval-Augmented Embodied Agents*  
   [![Paper](https://img.shields.io/badge/Paper-CVPR-4B5D67.svg)](https://doi.org/10.1109/cvpr52733.2024.01703)  
@@ -575,7 +575,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-2410.23968-b31b1b.svg)](https://arxiv.org/abs/2410.23968)  
 
 - **[arXiv'24.09]** *P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2409.11279-b31b1b.svg)](https://arxiv.org/abs/2409.11279)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2409.11279-b31b1b.svg)](https://arxiv.org/abs/2409.11279) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/xwy-bit/P-RAG)  
 
 - **[ICLR'23]** *Mind's Eye: Grounded Language Model Reasoning through Simulation*  
   [![Paper](https://img.shields.io/badge/Paper-ICLR-4B5D67.svg)](https://openreview.net/forum?id=4rXMRuoJlai)
@@ -585,14 +585,14 @@
 
 #### Alignment with Human Value
 
-- **[arXiv'25.03]** *SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.03480-b31b1b.svg)](https://arxiv.org/abs/2503.03480)  
+- **[NeurIPS'25]** *SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning*  
+  [![Paper](https://img.shields.io/badge/Paper-NeurIPS-4B5D67.svg)](https://openreview.net/forum?id=dt940loCBT) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/PKU-Alignment/SafeVLA) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://pku-safevla.github.io/)  
 
 - **[arXiv'24.11]** *GRAPE: Generalizing Robot Policy via Preference Alignment*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2411.19309-b31b1b.svg)](https://arxiv.org/abs/2411.19309)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2411.19309-b31b1b.svg)](https://arxiv.org/abs/2411.19309) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/aiming-lab/GRAPE) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://grape-vla.github.io/)  
 
-- **[arXiv'25.06]** *HAPO: Human-Assisted Robotic Policy Refinement via Action Preference Optimization*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.07127-b31b1b.svg)](https://arxiv.org/abs/2506.07127)  
+- **[NeurIPS'25]** *HAPO: Human-Assisted Robotic Policy Refinement via Action Preference Optimization*  
+  [![Paper](https://img.shields.io/badge/Paper-NeurIPS-4B5D67.svg)](https://openreview.net/forum?id=dlQ1iUpQNf) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/GeWu-Lab/Action-Preference-Optimization) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://gewu-lab.github.io/action_preference_optimization/)  
 
 - **[ICML'23]** *Constrained Decision Transformer for Offline Safe Reinforcement Learning*  
   [![Paper](https://img.shields.io/badge/Paper-ICML-4B5D67.svg)](https://proceedings.mlr.press/v202/liu23m.html)
@@ -601,8 +601,8 @@
 - **[arXiv'24.01]** *AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents*  
   [![arXiv](https://img.shields.io/badge/arXiv-2401.12963-b31b1b.svg)](https://arxiv.org/abs/2401.12963)  
 
-- **[arXiv'25.03]** *Generating Robot Constitutions & Benchmarks for Semantic Safety*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.08663-b31b1b.svg)](https://arxiv.org/abs/2503.08663)  
+- **[CoRL'25]** *Generating Robot Constitutions & Benchmarks for Semantic Safety*  
+  [![Paper](https://img.shields.io/badge/Paper-CoRL-4B5D67.svg)](https://proceedings.mlr.press/v305/sermanet25a.html) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/asimov-benchmark/code) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://asimov-benchmark.github.io/v1/)  
 
 - **[arXiv'25.10]** *ARRC: Advanced Reasoning Robot Control — Knowledge-Driven Autonomous Manipulation Using Retrieval-Augmented Generation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2510.05547-b31b1b.svg)](https://arxiv.org/abs/2510.05547)  
@@ -611,7 +611,7 @@
   [![Paper](https://img.shields.io/badge/Paper-Auton.%20Robots-4B5D67.svg)](https://doi.org/10.1007/s10514-023-10131-7)  
 
 - **[ICRA'23]** *Code as Policies: Language Model Programs for Embodied Control*  
-  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/icra48891.2023.10160591)  
+  [![Paper](https://img.shields.io/badge/Paper-ICRA-4B5D67.svg)](https://doi.org/10.1109/icra48891.2023.10160591) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/google-research/google-research/tree/master/code_as_policies) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://code-as-policies.github.io/)  
 
 <a id="future-directions"></a>
 
